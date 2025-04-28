@@ -1,4 +1,4 @@
-# <p align="center">Hello World, I'm kindun</p>
+# <p align="center">Hello World🌟, I'm kindun</p>
 
 [![typograssy](https://typograssy.deno.dev/api?text=Nice%20to%20meet%20you%20)](https://skillicons.dev)
 
