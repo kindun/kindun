@@ -1,6 +1,6 @@
 # <p align="center">Hello World, I'm kindun</p>
 
-[![typograssy](https://typograssy.deno.dev/api?text=がんばります%20Nice%20to%20meet%20you%20)](https://skillicons.dev)
+[![typograssy](https://typograssy.deno.dev/api?text=Nice%20to%20meet%20you%20)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kindun&theme=onedark&show_icons=true)](https://github.com/kindun/github-readme-stats)
 
