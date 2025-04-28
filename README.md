@@ -1,5 +1,7 @@
 # <p align="center">Hello World, I'm kindun</p>
 
+[![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!!!!!!!!!!!!!)](https://github.com/kawarimidoll/typograssy)
+
 ## my skills (skillと言えないレベル)
 [![My Skills](https://skillicons.dev/icons?i=c,python,html,css,latex)](https://skillicons.dev)
 
@@ -8,5 +10,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kindun&layout=compact&theme=onedark)](https://github.com/kindun/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kindun&theme=onedark)](https://github.com/kindun/github-profile-trophy)
-
-[![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!)](https://github.com/kawarimidoll/typograssy)
