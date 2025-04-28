@@ -1,6 +1,6 @@
 # Hi!, I'm kindun.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kindun&hide=contribs,prs)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kindun&theme=onedark&show_icons=true)](https://github.com/kindun/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kindun&layout=compact)](https://github.com/kindun/github-readme-stats)
 
