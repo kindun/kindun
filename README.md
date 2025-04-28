@@ -2,7 +2,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kindun&theme=onedark&show_icons=true)](https://github.com/kindun/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kindun&layout=compact)](https://github.com/kindun/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kindun&layout=compact&theme=onedark)](https://github.com/kindun/github-readme-stats)
 
 
 
