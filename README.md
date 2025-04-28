@@ -1,6 +1,6 @@
 # <p align="center">Hello World, I'm kindun</p>
 
-[![My Skills](https://skillicons.dev/icons?i=c,python,html,css,tex)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,python,html,css,latex)](https://skillicons.dev)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kindun&theme=onedark&show_icons=true)](https://github.com/kindun/github-readme-stats)
 
