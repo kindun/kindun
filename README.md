@@ -1,6 +1,9 @@
 # <p align="center">Hello World🌟, I'm kindun</p>
 
 [![typograssy](https://typograssy.deno.dev/api?text=Nice%20to%20meet%20you%20)](https://skillicons.dev)
+## Skills (言えないレベル)
+[![My Skills](https://skillicons.dev/icons?i=c,python,html,css,latex)](https://skillicons.dev)
+
 ## Github Readme Stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kindun&theme=onedark&show_icons=true)](https://github.com/kindun/github-readme-stats)
 
