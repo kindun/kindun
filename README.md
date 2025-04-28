@@ -1,6 +1,6 @@
 # <p align="center">Hello World, I'm kindun</p>
 
-[![typograssy](https://typograssy.deno.dev/api?text=Hello%20world!!!!!!!!!!!!!)](https://github.com/kawarimidoll/typograssy)
+[![typograssy](https://typograssy.deno.dev/api?text=がんばります)](https://github.com/kawarimidoll/typograssy)
 
 ## my skills (skillと言えないレベル)
 [![My Skills](https://skillicons.dev/icons?i=c,python,html,css,latex)](https://skillicons.dev)
